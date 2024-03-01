@@ -1,0 +1,11 @@
+.gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Puedes ajustar esto según tus necesidades */
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
